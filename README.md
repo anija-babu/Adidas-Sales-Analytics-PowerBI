@@ -113,10 +113,10 @@ This dashboard helps answer the following business questions:
 Adidas-Sales-Analytics-PowerBI/
 │
 ├── Dataset/
-│   └── adidas_dataset.csv
+│   └── adidas_dataset.xlsx
 │
 ├── Dashboard/
-│   └── Adidas Sales Analytics.pbix
+│   └── adidas_Sales_analytics.pbix
 │
 ├── Screenshots/
 │   ├── Revenue-Sales-Overview.png
